@@ -24,22 +24,19 @@ Currently based in **Slovenia 🇸🇮**, I am a Senior Software Engineer with o
 
 ---
 
-### 📂 Featured Projects
-*Since you want to highlight projects smartly, list your top 3 repos here with a brief "Senior-level" explanation:*
+### 📂 Featured Repositories
 
-1. **[E-Commerce Microservices](https://github.com/husseinbbassam/your-repo)**  
-   *A production-ready microservices architecture using .NET Core and Azure. Implemented distributed tracing and SQL optimization.*
-2. **[Payment Gateway Integration Wrapper](https://github.com/husseinbbassam/your-repo)**  
-   *A clean-code implementation for Stripe, PayPal, and Aramex integrations, focusing on security and XML/JSON reliability.*
-3. **[Data Analysis Dashboard](https://github.com/husseinbbassam/your-repo)**  
-   *Python-based analysis of e-commerce trends, visualizing key metrics with Power BI as part of my Master's studies.*
+- 🚀 **[SagaFlow](https://github.com/husseinbbassam/SagaFlow)** – Implementation of the Saga Pattern for distributed transaction management in microservices.
+- 🛡️ **[ResilientGate](https://github.com/husseinbbassam/ResilientGate)** – A robust API Gateway implementation focusing on high availability and fault tolerance.
+- ⚡ **[NitroCache](https://github.com/husseinbbassam/NitroCache)** – High-performance distributed caching layer optimized for .NET Core applications.
+- 🔐 **[SecureTenant](https://github.com/husseinbbassam/SecureTenant)** – Multi-tenancy architecture with a focus on data isolation and secure identity management.
+- 🧠 **[BrainLink](https://github.com/husseinbbassam/BrainLink)** – Bridging backend services with data analysis pipelines for real-time insights.
+- 🏗️ **[Modular Monolith DDD](https://github.com/husseinbbassam/modular-monolith-with-ddd)** – Advanced architectural pattern using Domain-Driven Design principles.
 
 ---
 
 ### 📊 GitHub Activity
-*(These cards will automatically update and make your profile look active even if you don't commit every day)*
 
-![Hussein's GitHub stats](https://github-readme-stats.vercel.app/api?username=husseinbbassam&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husseinbbassam&layout=compact&theme=radical)
 
 ---
@@ -47,3 +44,4 @@ Currently based in **Slovenia 🇸🇮**, I am a Senior Software Engineer with o
 ### 📫 How to reach me:
 - **LinkedIn:** [linkedin.com/in/husseinbbassam/](https://linkedin.com/in/husseinbbassam/)
 - **Email:** hussein.b.bassam@outlook.com
+- **Website:** [Hussein Bassam Portfolio](https://husseinbbassam.github.io/)
