@@ -23,25 +23,3 @@ Currently based in **Slovenia 🇸🇮**, I am a Senior Software Engineer with o
 | **DevOps/Tools** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
 ---
-
-### 📂 Featured Repositories
-
-- 🚀 **[SagaFlow](https://github.com/husseinbbassam/SagaFlow)** – Implementation of the Saga Pattern for distributed transaction management in microservices.
-- 🛡️ **[ResilientGate](https://github.com/husseinbbassam/ResilientGate)** – A robust API Gateway implementation focusing on high availability and fault tolerance.
-- ⚡ **[NitroCache](https://github.com/husseinbbassam/NitroCache)** – High-performance distributed caching layer optimized for .NET Core applications.
-- 🔐 **[SecureTenant](https://github.com/husseinbbassam/SecureTenant)** – Multi-tenancy architecture with a focus on data isolation and secure identity management.
-- 🧠 **[BrainLink](https://github.com/husseinbbassam/BrainLink)** – Bridging backend services with data analysis pipelines for real-time insights.
-- 🏗️ **[Modular Monolith DDD](https://github.com/husseinbbassam/modular-monolith-with-ddd)** – Advanced architectural pattern using Domain-Driven Design principles.
-
----
-
-### 📊 GitHub Activity
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husseinbbassam&layout=compact&theme=radical)
-
----
-
-### 📫 How to reach me:
-- **LinkedIn:** [linkedin.com/in/husseinbbassam/](https://linkedin.com/in/husseinbbassam/)
-- **Email:** hussein.b.bassam@outlook.com
-- **Website:** [Hussein Bassam Portfolio](https://husseinbbassam.github.io/)
